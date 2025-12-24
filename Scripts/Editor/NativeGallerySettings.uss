@@ -1,0 +1,65 @@
+/* 컨테이너 */
+.settings-container {
+    padding: 15px;
+    flex-grow: 1;
+}
+
+/* 제목 */
+.settings-title {
+    font-size: 18px;
+    -unity-font-style: bold;
+    margin-bottom: 10px;
+    color: rgb(200, 200, 200);
+}
+
+/* 구분선 */
+.settings-separator {
+    height: 1px;
+    background-color: rgba(128, 128, 128, 0.3);
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+/* 섹션 */
+.settings-section {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.02);
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgba(128, 128, 128, 0.2);
+}
+
+.settings-section-label {
+    font-size: 14px;
+    -unity-font-style: bold;
+    margin-bottom: 10px;
+    color: rgb(180, 180, 180);
+}
+
+/* 토글 */
+.settings-toggle {
+    margin-bottom: 10px;
+}
+
+.settings-toggle Label {
+    min-width: 250px;
+}
+
+/* 텍스트 필드 */
+.settings-textfield {
+    margin-bottom: 10px;
+}
+
+.settings-textfield Label {
+    min-width: 250px;
+}
+
+.settings-textfield TextInput {
+    min-height: 40px;
+}
+
+/* 도움말 박스 */
+.settings-helpbox {
+    margin-top: 15px;
+}
