@@ -30,7 +30,7 @@ Native Gallery는 Unity에서 Android 및 iOS 기기의 갤러리에 이미지�
 [다운로드](../../releases/latest)를 클릭하여 `NativeGallery.unitypackage`를 유니티에 설치합니다.
 
 ### 2. iOS 설정
-![Native Gallery Preview](preview.jpg)
+![Native Gallery Preview](https://github.com/NK-Studio/Native-Gallery/blob/main/%20preview.jpg)
 **Project Settings → NKStudio → Native Gallery**에서 권한 설정:
 
 1. Unity 에디터에서 `Edit → Project Settings` 메뉴 열기
